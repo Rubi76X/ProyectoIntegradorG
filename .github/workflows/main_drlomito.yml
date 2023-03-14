@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Drlomito'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DFAD723B72144FAA05C94B60FFC34E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_346719D9FD334ECEA51FBF17B8E7449F }}
           package: '*.jar'
